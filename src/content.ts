@@ -3,10 +3,10 @@ export const profile = {
   title: "Senior Full-Stack Developer",
   location: "Karmiel, Israel",
   summary:
-    "Senior full-stack developer with 9+ years across the full software lifecycle. I work on event-driven backends, payment integrations, and high-throughput microservices. At Guesty I own services on the guest-flow path — reservations, check-in, and digital guidebooks — built with NestJS, Prisma, Temporal, and Kafka.",
+    "Senior full-stack developer with 9+ years across the full software lifecycle. I work on event-driven backends, payment integrations, and high-throughput microservices.",
   email: "perly.kar@gmail.com",
   phone: "+972527696575",
-  phoneLabel: "Call · +972 52 769 6575",
+  phoneLabel: "+972 52 769 6575",
   whatsapp: "https://wa.me/972527696575",
   whatsappLabel: "WhatsApp",
   linkedin: "https://www.linkedin.com/in/perly-lichtinshtein/",
@@ -63,7 +63,6 @@ export const roles = [
 
 export const publicCode = {
   heading: "Public code",
-  note: "Code you can read. Production systems from past roles stay in company accounts.",
   repos: [
     {
       name: "context-rag",

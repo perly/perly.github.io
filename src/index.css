@@ -234,12 +234,6 @@ article li + li {
   margin-top: 0.45rem;
 }
 
-.section-note {
-  max-width: var(--measure);
-  margin: -0.4rem 0 0;
-  color: var(--muted);
-}
-
 .repos,
 .skill-groups,
 .contact-list {

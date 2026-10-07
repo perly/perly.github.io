@@ -114,7 +114,6 @@ function App() {
 
         <section id="public-code" aria-labelledby="public-code-heading">
           <h2 id="public-code-heading">{publicCode.heading}</h2>
-          <p className="section-note">{publicCode.note}</p>
           <ul className="repos">
             {publicCode.repos.map((repo) => (
               <li key={repo.href}>
