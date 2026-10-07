@@ -152,6 +152,23 @@ h1 {
   margin: 1.5rem 0 0;
 }
 
+.contact-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.contact-link svg {
+  width: 1.05rem;
+  height: 1.05rem;
+  flex: none;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.75;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
 section {
   padding: 2.5rem 0;
   border-top: 1px solid var(--line);
