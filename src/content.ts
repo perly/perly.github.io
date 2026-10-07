@@ -5,8 +5,8 @@ export const profile = {
   summary:
     "Senior full-stack developer with 9+ years across the full software lifecycle. I work on event-driven backends, payment integrations, and high-throughput microservices. At Guesty I own services on the guest-flow path — reservations, check-in, and digital guidebooks — built with NestJS, Prisma, Temporal, and Kafka.",
   email: "perly.kar@gmail.com",
-  phone: "+972527696575",
-  phoneLabel: "+972 52 769 6575",
+  whatsapp: "https://wa.me/972527696575",
+  phoneLabel: "WhatsApp · +972 52 769 6575",
   linkedin: "https://www.linkedin.com/in/perly-lichtinshtein/",
 }
 

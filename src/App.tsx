@@ -29,7 +29,7 @@ function App() {
           <p className="intro-links">
             <a href={`mailto:${profile.email}`}>{profile.email}</a>
             <a href={profile.linkedin}>LinkedIn</a>
-            <a href={`tel:${profile.phone}`}>{profile.phoneLabel}</a>
+            <a href={profile.whatsapp}>{profile.phoneLabel}</a>
           </p>
         </section>
 
@@ -101,7 +101,7 @@ function App() {
               <a href={profile.linkedin}>LinkedIn</a>
             </li>
             <li>
-              <a href={`tel:${profile.phone}`}>{profile.phoneLabel}</a>
+              <a href={profile.whatsapp}>{profile.phoneLabel}</a>
             </li>
           </ul>
         </section>
