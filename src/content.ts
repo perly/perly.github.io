@@ -68,7 +68,7 @@ export const publicCode = {
       name: "mcp-tracing-agent",
       href: "https://github.com/perly/mcp-tracing-agent",
       summary:
-        "An API and a tool that rebuild one request’s timeline across several services.",
+        "An MCP tool an AI agent uses to rebuild one request’s timeline across several services, with an API behind it.",
     },
   ],
 }
