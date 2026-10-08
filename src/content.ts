@@ -65,16 +65,10 @@ export const publicCode = {
   heading: "Public code",
   repos: [
     {
-      name: "context-rag",
-      href: "https://github.com/perly/context-rag",
-      summary:
-        "A small retrieval pipeline that answers only from the matching tenant’s documents, and refuses when nothing is close enough.",
-    },
-    {
       name: "mcp-tracing-agent",
       href: "https://github.com/perly/mcp-tracing-agent",
       summary:
-        "A tool that rebuilds one request’s timeline from logs of several services.",
+        "An API and a tool that rebuild one request’s timeline across several services.",
     },
   ],
 }
