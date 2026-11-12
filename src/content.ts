@@ -3,7 +3,7 @@ export const profile = {
   title: "Senior Full-Stack Developer",
   location: "Karmiel, Israel",
   summary:
-    "Senior full-stack developer with 9+ years across the full software lifecycle. I work on event-driven backends, payment integrations, and high-throughput microservices.",
+    "Senior full-stack developer with 10+ years. I build and scale web applications with React, Node.js, and TypeScript, on distributed systems and microservices.",
   email: "perly.kar@gmail.com",
   phone: "+972527696575",
   phoneLabel: "+972 52 769 6575",
